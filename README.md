@@ -6,7 +6,7 @@
 
 ~~11047. 동전 0(S2), https://www.acmicpc.net/problem/11047~~
 
-~~12761. 돌다리(S2, M), https://www.acmicpc.net/problem/12761~~
+~~12761. 돌다리(S2), https://www.acmicpc.net/problem/12761~~
 
 #### 2021.06.29(화)
 
@@ -14,7 +14,18 @@
 
 ~~1068. 트리(G5, B), https://www.acmicpc.net/problem/1068~~
 
-~~1261. 알고스팟(G4, Y), https://www.acmicpc.net/problem/1261~~
+~~1261. 알고스팟(G4), https://www.acmicpc.net/problem/1261~~
+
+#### 2021.06.30(수)
+
+~~1344. 축구(G4), https://www.acmicpc.net/problem/1344~~
+
+~~8980. 택배(G3), https://www.acmicpc.net/problem/8980~~
+
+
+
+
+
 
 ```
 11399. ATM(S3, D), https://www.acmicpc.net/problem/11399
