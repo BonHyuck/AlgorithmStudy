@@ -22,6 +22,8 @@
 
 ~~8980. 택배(G3), https://www.acmicpc.net/problem/8980~~
 
+#### 2021.07.01(목)
+
 
 
 
