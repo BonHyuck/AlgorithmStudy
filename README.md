@@ -2,43 +2,41 @@
 
 #### 2021.06.28(월)
 
-~~11399. ATM(S3), https://www.acmicpc.net/problem/11399~~
+.11399. ATM(S3), https://www.acmicpc.net/problem/11399
 
-~~11047. 동전 0(S2), https://www.acmicpc.net/problem/11047~~
+.11047. 동전 0(S2), https://www.acmicpc.net/problem/11047
 
-~~12761. 돌다리(S2), https://www.acmicpc.net/problem/12761~~
+.12761. 돌다리(S2), https://www.acmicpc.net/problem/12761
 
 #### 2021.06.29(화)
 
-~~1991. 트리 순회(S1), https://www.acmicpc.net/problem/1991~~
+.1991. 트리 순회(S1), https://www.acmicpc.net/problem/1991
 
-~~1068. 트리(G5, B), https://www.acmicpc.net/problem/1068~~
+.1068. 트리(G5, B), https://www.acmicpc.net/problem/1068
 
-~~1261. 알고스팟(G4), https://www.acmicpc.net/problem/1261~~
+.1261. 알고스팟(G4), https://www.acmicpc.net/problem/1261
 
 #### 2021.06.30(수)
 
-~~1344. 축구(G4), https://www.acmicpc.net/problem/1344~~
+.1344. 축구(G4), https://www.acmicpc.net/problem/1344
 
-~~8980. 택배(G3), https://www.acmicpc.net/problem/8980~~
+.8980. 택배(G3), https://www.acmicpc.net/problem/8980
 
 #### 2021.07.01(목)
 
+.1430. 공격(G4), https://www.acmicpc.net/problem/1430 시도 중 실패...
 
 
 
+### 7월 1주차 (21.07.02 ~ 21.07.08)
 
+#### 2021.07.02(금)
 
-```
-11399. ATM(S3, D), https://www.acmicpc.net/problem/11399
-11047. 동전 0(S2, D), https://www.acmicpc.net/problem/11047
-12761. 돌다리(S2, M), https://www.acmicpc.net/problem/12761 
-1991. 트리 순회(S1, B), https://www.acmicpc.net/problem/1991
-1068. 트리(G5, B), https://www.acmicpc.net/problem/1068
-1261. 알고스팟(G4, Y), https://www.acmicpc.net/problem/1261
-1344. 축구(G4, S), https://www.acmicpc.net/problem/1344
-1430. 공격(G4, Y), https://www.acmicpc.net/problem/1430
-8980. 택배(G3, S), https://www.acmicpc.net/problem/8980
-11066. 파일 합치기(G3, M), https://www.acmicpc.net/problem/11066
-```
+.2775. 부녀회장이 될테야(B2), https://www.acmicpc.net/problem/2775
+
+.2805. 나무 자르기(S3), https://www.acmicpc.net/problem/2805
+
+.2839. 설탕 배달(B1), https://www.acmicpc.net/problem/2839
+
+.2869. 달팽이는 올라가고 싶다(B1), https://www.acmicpc.net/problem/2869
 
