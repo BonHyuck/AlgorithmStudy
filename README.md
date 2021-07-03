@@ -40,3 +40,7 @@
 
 .2869. 달팽이는 올라가고 싶다(B1), https://www.acmicpc.net/problem/2869
 
+.4949. 균형잡힌 세상(S4), https://www.acmicpc.net/problem/4949
+
+.7568. 덩치(S5). https://www.acmicpc.net/problem/7568
+
