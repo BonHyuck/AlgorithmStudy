@@ -44,3 +44,14 @@
 
 .7568. 덩치(S5). https://www.acmicpc.net/problem/7568
 
+#### 2021.07.03(토)
+
+.10773. 제로(S4), https://www.acmicpc.net/problem/10773
+
+.10989. 수 정렬하기 3(S5), https://www.acmicpc.net/problem/10989
+
+#### 2021.07.04(일)
+
+.11651. 좌표 정렬하기 2, https://www.acmicpc.net/problem/11651
+
+.18111. 마인크래프트, https://www.acmicpc.net/problem/18111
