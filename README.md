@@ -64,3 +64,4 @@
 
 .3184. 양(S2), https://www.acmicpc.net/problem/3184
 
+.1389. 케빈 베이컨의 6단계 법칙(S1), https://www.acmicpc.net/problem/1389

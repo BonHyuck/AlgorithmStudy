@@ -18,6 +18,7 @@
 #             parent_index = tree[parent_index]
 #
 # print(leaves.count(1))
+
 # 지운 이후 자식이 없어진 부모가 있을 수 있다 => 해당 부모가 리프 노드가 된다.
 #
 # def find_leaf(idx):
