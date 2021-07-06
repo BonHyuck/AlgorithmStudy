@@ -65,3 +65,9 @@
 .3184. 양(S2), https://www.acmicpc.net/problem/3184
 
 .1389. 케빈 베이컨의 6단계 법칙(S1), https://www.acmicpc.net/problem/1389
+
+#### 2021.07.06(화)
+
+.2470. 두 용액(G5), https://www.acmicpc.net/problem/2470
+
+.2636. 치즈(G5), https://www.acmicpc.net/problem/2636
