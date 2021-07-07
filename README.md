@@ -70,4 +70,18 @@
 
 .2470. 두 용액(G5), https://www.acmicpc.net/problem/2470
 
+#### 2021.07.07(수)
+
 .2636. 치즈(G5), https://www.acmicpc.net/problem/2636
+
+
+
+```
+1025. 제곱수 찾기(G5), https://www.acmicpc.net/problem/1025
+12865. 평범한 배낭(G5), https://www.acmicpc.net/problem/12865 
+1082. 방번호(G4), https://www.acmicpc.net/problem/1082
+1644. 소수의 연속합(G3), https://www.acmicpc.net/problem/1644
+```
+
+
+
