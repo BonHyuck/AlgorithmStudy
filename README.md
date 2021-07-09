@@ -80,11 +80,33 @@
 
 
 
+### 7월 2주차 (21.07.09 ~ 21.07.15)
+
+#### 2021.07.09(금)
+
+.10211. Maximum Subarray(S3), https://www.acmicpc.net/problem/10211
+
+
+
 ```
-1025. 제곱수 찾기(G5), https://www.acmicpc.net/problem/1025
-1082. 방번호(G4), https://www.acmicpc.net/problem/1082
-1644. 소수의 연속합(G3), https://www.acmicpc.net/problem/1644
-1430. 공격(G4), https://www.acmicpc.net/problem/1430
+1334. [S3] 다음 팰린드롬 수
+https://www.acmicpc.net/problem/1334
+2841. [S1] 외계인의 기타 연주
+https://www.acmicpc.net/problem/2841
+1013. [G5] Contact
+https://www.acmicpc.net/problem/1013
+1153. [G4] 네 개의 소수
+https://www.acmicpc.net/problem/1153
+1715. [G4] 카드 정렬하기
+https://www.acmicpc.net/problem/1715
+1875. [G4] 테트리스
+https://www.acmicpc.net/problem/1875
+1341. [G3] 사이좋은 형제
+https://www.acmicpc.net/problem/1341
+1231. [G2] 주식왕 동호
+https://www.acmicpc.net/problem/1231
+5213. [G2] 과외맨
+https://www.acmicpc.net/problem/5213
 ```
 
 
