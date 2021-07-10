@@ -86,13 +86,13 @@
 
 .10211. Maximum Subarray(S3), https://www.acmicpc.net/problem/10211
 
+#### 2021.07.10(토)
 
+.2841. [S1] 외계인의 기타 연주, https://www.acmicpc.net/problem/2841
 
 ```
 1334. [S3] 다음 팰린드롬 수
 https://www.acmicpc.net/problem/1334
-2841. [S1] 외계인의 기타 연주
-https://www.acmicpc.net/problem/2841
 1013. [G5] Contact
 https://www.acmicpc.net/problem/1013
 1153. [G4] 네 개의 소수
