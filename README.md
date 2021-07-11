@@ -90,13 +90,17 @@
 
 .2841. [S1] 외계인의 기타 연주, https://www.acmicpc.net/problem/2841
 
+#### 2021.07.11(일)
+
+.1153. [G4] 네 개의 소수, https://www.acmicpc.net/problem/1153
+
+
+
 ```
 1334. [S3] 다음 팰린드롬 수
 https://www.acmicpc.net/problem/1334
-1013. [G5] Contact
-https://www.acmicpc.net/problem/1013
-1153. [G4] 네 개의 소수
-https://www.acmicpc.net/problem/1153
+1566. [G5] P배열
+https://www.acmicpc.net/problem/1566
 1715. [G4] 카드 정렬하기
 https://www.acmicpc.net/problem/1715
 1875. [G4] 테트리스
