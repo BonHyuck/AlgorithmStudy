@@ -88,21 +88,27 @@
 
 #### 2021.07.10(토)
 
-.2841. [S1] 외계인의 기타 연주, https://www.acmicpc.net/problem/2841
+.2841. 외계인의 기타 연주(S1), https://www.acmicpc.net/problem/2841
 
 #### 2021.07.11(일)
 
-.1153. [G4] 네 개의 소수, https://www.acmicpc.net/problem/1153
+.1153. 네 개의 소수(G4), https://www.acmicpc.net/problem/1153
+
+#### 2021.07.12(월)
+
+.1334. 다음 팰린드롬 수(S3), https://www.acmicpc.net/problem/1334
+
+.1715. 카드 정렬하기(G4), https://www.acmicpc.net/problem/1715
+
+.
+
+
 
 
 
 ```
-1334. [S3] 다음 팰린드롬 수
-https://www.acmicpc.net/problem/1334
 1566. [G5] P배열
 https://www.acmicpc.net/problem/1566
-1715. [G4] 카드 정렬하기
-https://www.acmicpc.net/problem/1715
 1875. [G4] 테트리스
 https://www.acmicpc.net/problem/1875
 1341. [G3] 사이좋은 형제

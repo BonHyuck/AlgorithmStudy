@@ -20,22 +20,29 @@
 #     arr.sort()
 # print(sum(result))
 
+# 1715. [G4] 카드 정렬하기
+# https://www.acmicpc.net/problem/1715
+
 import heapq
-import sys
 
 N = int(input())
-card_deck = []
+arr = []
 for _ in range(N):
-    heapq.heappush(card_deck, int(sys.stdin.readline()))
+    heapq.heappush(arr, int(input()))
+    print(arr)
 
-if len(card_deck) == 1:  # 1개일 경우 비교하지 않아도 된다
+# 1개일 경우 비교 없음
+if len(arr) == 1:
     print(0)
 else:
     answer = 0
-    while len(card_deck) > 1:  # 1개일 경우 비교하지 않아도 된다
-        temp_1 = heapq.heappop(card_deck)  # 제일 작은 덱
-        temp_2 = heapq.heappop(card_deck)  # 두번째로 작은 덱
-        answer += temp_1 + temp_2  # 현재 비교 횟수를 더해줌
-        heapq.heappush(card_deck, temp_1 + temp_2)  # 더한 덱을 다시 넣어줌
-
+    while len(arr) > 1:  # 1개일 경우 비교하지 않아도 된다
+        # 제일 작은거
+        first = heapq.heappop(arr)
+        # 다음 작은거
+        second = heapq.heappop(arr)
+        # 비교 마침
+        answer += first + second
+        # 다시 넣어서 최소 연산
+        heapq.heappush(arr, first + second)
     print(answer)
