@@ -100,7 +100,9 @@
 
 .1715. 카드 정렬하기(G4), https://www.acmicpc.net/problem/1715
 
-.
+#### 2021.07.13(화)
+
+.1341. 사이좋은 형제(G3), https://www.acmicpc.net/problem/1341
 
 
 
@@ -111,8 +113,6 @@
 https://www.acmicpc.net/problem/1566
 1875. [G4] 테트리스
 https://www.acmicpc.net/problem/1875
-1341. [G3] 사이좋은 형제
-https://www.acmicpc.net/problem/1341
 1231. [G2] 주식왕 동호
 https://www.acmicpc.net/problem/1231
 5213. [G2] 과외맨
