@@ -12,8 +12,12 @@ money = [0 for _ in range(500001)]
 
 for d in range(1, D):
     for s in range(C):
-        for m in range(stocks[s][d - 1], M + 1):
-            money[M] = max(money[m], money[m - stocks[s][d - 1]] + stocks[s][d] - stocks[s][d - 1])
+        prev = stocks[s][d-1]
+        price = stocks[s][d]
+        for m in range(prev, M + 1):
+            temp = money[m-prev] + price
+            if money[m] < temp:
+                money[m] = temp
     M += money[M]
 print(M)
 

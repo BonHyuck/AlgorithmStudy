@@ -104,19 +104,45 @@
 
 .1341. 사이좋은 형제(G3), https://www.acmicpc.net/problem/1341
 
+#### 2021.07.14(수) / 2021.07.15(목)
 
+.1566. P배열(G5),  https://www.acmicpc.net/problem/1566
+
+.1875. 테트리스(G4), https://www.acmicpc.net/problem/1875
+
+.1231. 주식왕 동호(G2), https://www.acmicpc.net/problem/1231
+
+.5213. 과외맨(G2), https://www.acmicpc.net/problem/5213
+
+
+
+### 7월 3주차 (21.07.16 ~ 21.07.22)
+
+#### 2021.07.16(금)
+
+.1245. [S1] 농장관리, https://www.acmicpc.net/problem/1245
 
 
 
 ```
-1566. [G5] P배열
-https://www.acmicpc.net/problem/1566
-1875. [G4] 테트리스
-https://www.acmicpc.net/problem/1875
-1231. [G2] 주식왕 동호
-https://www.acmicpc.net/problem/1231
-5213. [G2] 과외맨
-https://www.acmicpc.net/problem/5213
+4889. [S1] 안정적인 문자열
+https://www.acmicpc.net/problem/4889
+1013. [G5] Contact
+https://www.acmicpc.net/problem/1013
+1501. [G5] 영어 읽기
+https://www.acmicpc.net/problem/1501
+1662. [G5] 압축
+https://www.acmicpc.net/problem/1662
+2075. [G5] N번째 큰 수
+https://www.acmicpc.net/problem/2075
+1419. [G4] 등차수열의 합
+https://www.acmicpc.net/problem/1419
+1600. [G4] 말이 되고픈 원숭이
+https://www.acmicpc.net/problem/1600
+4485. [G4] 녹색 옷 입은 애가 젤다지?
+https://www.acmicpc.net/problem/4485
+2263. [G3] 트리의 순회
+https://www.acmicpc.net/problem/2263
 ```
 
 
