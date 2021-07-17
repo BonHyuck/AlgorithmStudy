@@ -122,7 +122,8 @@
 
 .1245. [S1] 농장관리, https://www.acmicpc.net/problem/1245
 
-
+#### 2021.07.17(토)
+.4889. [S1] 안정적인 문자열, https://www.acmicpc.net/problem/4889
 
 ```
 4889. [S1] 안정적인 문자열
