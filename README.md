@@ -125,11 +125,11 @@
 #### 2021.07.17(토)
 .4889. [S1] 안정적인 문자열, https://www.acmicpc.net/problem/4889
 
+#### 2021.07.18(일)
+.1013. [G5] Contact, https://www.acmicpc.net/problem/1013
+
+
 ```
-4889. [S1] 안정적인 문자열
-https://www.acmicpc.net/problem/4889
-1013. [G5] Contact
-https://www.acmicpc.net/problem/1013
 1501. [G5] 영어 읽기
 https://www.acmicpc.net/problem/1501
 1662. [G5] 압축
