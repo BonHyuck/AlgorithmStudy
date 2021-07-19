@@ -128,6 +128,12 @@
 #### 2021.07.18(일)
 .1013. [G5] Contact, https://www.acmicpc.net/problem/1013
 
+#### 2021.07.19(월)
+
+.1501. [G5] 영어 읽기, https://www.acmicpc.net/problem/1501
+
+
+
 
 ```
 1501. [G5] 영어 읽기
