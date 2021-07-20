@@ -137,13 +137,13 @@
 .1419. [G4] 등차수열의 합, https://www.acmicpc.net/problem/1419
 
 
+
+
 ```
 1662. [G5] 압축
 https://www.acmicpc.net/problem/1662
 2075. [G5] N번째 큰 수
 https://www.acmicpc.net/problem/2075
-1419. [G4] 등차수열의 합
-https://www.acmicpc.net/problem/1419
 1600. [G4] 말이 되고픈 원숭이
 https://www.acmicpc.net/problem/1600
 4485. [G4] 녹색 옷 입은 애가 젤다지?
