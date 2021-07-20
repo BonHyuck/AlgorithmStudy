@@ -132,12 +132,12 @@
 
 .1501. [G5] 영어 읽기, https://www.acmicpc.net/problem/1501
 
+#### 2021.07.20(화)
 
+.1419. [G4] 등차수열의 합, https://www.acmicpc.net/problem/1419
 
 
 ```
-1501. [G5] 영어 읽기
-https://www.acmicpc.net/problem/1501
 1662. [G5] 압축
 https://www.acmicpc.net/problem/1662
 2075. [G5] N번째 큰 수
