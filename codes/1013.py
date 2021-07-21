@@ -8,6 +8,9 @@
 #     else:
 #         print("NO")
 
+# 1013. [G5] Contact
+# https://www.acmicpc.net/problem/1013
+
 import sys
 import re
 

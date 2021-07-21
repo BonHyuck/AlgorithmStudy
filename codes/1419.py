@@ -4,6 +4,9 @@
 4
 '''
 
+# # 1419. [G4] 등차수열의 합
+# # https://www.acmicpc.net/problem/1419
+#
 # left = int(input())
 # right = int(input())
 # k = int(input())
@@ -68,6 +71,9 @@
 #
 # print(result)
 
+# 1419. [G4] 등차수열의 합
+# https://www.acmicpc.net/problem/1419
+
 left = int(input())
 right = int(input())
 k = int(input())
@@ -77,33 +83,60 @@ if k == 2:
     if right < 3:
         result = 0
     else:
+        # left가 1 혹은 2라면
         if left < 3:
+            # 기준값 3을 가지고 범위 설정
             result = right - 3 + 1
         else:
+            # left와 right 사이의 모든 수
             result = right - left + 1
+# 홀수일 경우 (3, 5)
 elif k == 3 or k == 5:
+    # 기준 숫자
     start_number = (k * (k + 1)) // 2
+    # 기준 숫자가 left보다 작으면
     if start_number < left:
+        # 일정 규칙을 가지고 순환하기 때문에
+        # 해당 규칙내에서 left 이상이면서 제일 가까운 숫자를 기준 숫자로 설정
         start_number += ((((left - start_number) // k) + 1) * k)
+        # 만일 left가 규칙 내에 있으면
+        # 기준 숫자에서 k를 빼줘서 left로 만들어 준다.
+        # start_number = left
         if left % k == 0:
             start_number -= k
+    # 기준 숫자가 right 이하일 경우
+    # right 초과라면 결과는 0
     if start_number <= right:
         result = ((right - start_number) // k) + 1
 elif k == 4:
+    # left가 1 ~ 10 사이
     if 1 <= left <= 10:
+        # right가 10보다 작으면 결과 없음
+        # k = 4를 만족하는 최소 숫자는 10이기 때문
         if right < 10:
             result = 0
         else:
+            # 기준 값을 14로 잡는다
+            # 10부터 시작해서 2씩 커지나
+            # 12는 제외되기 때문에
             start_number = 14
+            # 만일 기준숫자 = 14가 left보다 작으면
             if start_number < left:
+                # left가 짝수라면 규칙에 들어오는 숫자
                 if left % 2 == 0:
                     start_number = left
+                # left가 홀수라면 그 다음 수가 규칙에 들어오는 숫자
                 else:
                     start_number = left + 1
+            # 기준숫자가 right보다 작으면 계산
+            # 기준숫자가 right보다 크면 결과값은 0
             if start_number <= right:
                 result = (right - start_number) // 2 + 1
+            # 10을 포함시켜주기
             result += 1
     else:
+        # left가 10 초과면
+        # 10을 포함하지 않으므로 기준 값을 14부터 바로 시작
         start_number = 14
         if start_number < left:
             if left % 2 == 0:
