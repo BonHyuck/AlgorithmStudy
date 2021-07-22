@@ -140,6 +140,10 @@
 
 .2075. [G5] N번째 큰 수, https://www.acmicpc.net/problem/2075
 
+#### 2021.07.22(목)
+
+.1600. [G4] 말이 되고픈 원숭이, https://www.acmicpc.net/problem/1600
+
 
 
 
