@@ -116,7 +116,7 @@
 
 
 
-### 7월 3주차 (21.07.16 ~ 21.07.22)
+### 7월 3주차 (21.07.16 ~ 21.07.23)
 
 #### 2021.07.16(금)
 
@@ -142,9 +142,11 @@
 
 #### 2021.07.22(목)
 
-.1600. [G4] 말이 되고픈 원숭이, https://www.acmicpc.net/problem/1600
+.1600. [G4] 말이 되고픈 원숭이, https://www.acmicpc.net/problem/1600 시도 중...
 
+#### 2021.07.23(금) : 스터디가 금요일 저녁으로 밀림
 
+.4485. [G4] 녹색 옷 입은 애가 젤다지?, https://www.acmicpc.net/problem/4485
 
 
 ```
@@ -152,8 +154,6 @@
 https://www.acmicpc.net/problem/1662
 1600. [G4] 말이 되고픈 원숭이
 https://www.acmicpc.net/problem/1600
-4485. [G4] 녹색 옷 입은 애가 젤다지?
-https://www.acmicpc.net/problem/4485
 2263. [G3] 트리의 순회
 https://www.acmicpc.net/problem/2263
 ```
