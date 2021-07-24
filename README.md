@@ -149,13 +149,37 @@
 .4485. [G4] 녹색 옷 입은 애가 젤다지?, https://www.acmicpc.net/problem/4485
 
 
+
+### 7월 4주차 (21.07.24 ~ 21.07.29)
+
+#### 2021.07.24(토)
+
+.1500. [S1] 최대 곱, https://www.acmicpc.net/problem/1500
+
+
+
+
 ```
-1662. [G5] 압축
-https://www.acmicpc.net/problem/1662
-1600. [G4] 말이 되고픈 원숭이
-https://www.acmicpc.net/problem/1600
-2263. [G3] 트리의 순회
-https://www.acmicpc.net/problem/2263
+1500. [S1] 최대 곱
+https://www.acmicpc.net/problem/1500
+1188. [G5] 음식 평론가
+https://www.acmicpc.net/problem/1188
+1563. [G4] 개근상
+https://www.acmicpc.net/problem/1563
+1599. [G5] 민식어
+https://www.acmicpc.net/problem/1599
+1774. [G4] 우주신과의 교감
+https://www.acmicpc.net/problem/1774
+3908. [G4] 서로 다른 소수의 합
+https://www.acmicpc.net/problem/3908
+4719. [G4] 불! 
+https://www.acmicpc.net/problem/4179
+12869. [G4] 뮤탈리스크
+https://www.acmicpc.net/problem/12869
+1132. [G3] 합
+https://www.acmicpc.net/problem/1132
+2247. [G3] 실질적 약수
+https://www.acmicpc.net/problem/2247
 ```
 
 
