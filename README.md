@@ -156,14 +156,12 @@
 
 .1500. [S1] 최대 곱, https://www.acmicpc.net/problem/1500
 
+#### 2021.07.25(일)
 
+.1188. [G5] 음식 평론가, https://www.acmicpc.net/problem/1188
 
 
 ```
-1500. [S1] 최대 곱
-https://www.acmicpc.net/problem/1500
-1188. [G5] 음식 평론가
-https://www.acmicpc.net/problem/1188
 1563. [G4] 개근상
 https://www.acmicpc.net/problem/1563
 1599. [G5] 민식어
