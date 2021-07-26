@@ -160,10 +160,15 @@
 
 .1188. [G5] 음식 평론가, https://www.acmicpc.net/problem/1188
 
+#### 2021.07.26(월)
+
+.1563. [G4] 개근상, https://www.acmicpc.net/problem/1563
+
+
+
 
 ```
-1563. [G4] 개근상
-https://www.acmicpc.net/problem/1563
+
 1599. [G5] 민식어
 https://www.acmicpc.net/problem/1599
 1774. [G4] 우주신과의 교감
