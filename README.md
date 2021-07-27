@@ -164,7 +164,9 @@
 
 .1563. [G4] 개근상, https://www.acmicpc.net/problem/1563
 
+#### 2021.07.27(화)
 
+.1599. [G5] 민식어, https://www.acmicpc.net/problem/1599
 
 
 ```
