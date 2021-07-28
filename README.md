@@ -168,11 +168,13 @@
 
 .1599. [G5] 민식어, https://www.acmicpc.net/problem/1599
 
+#### 2021.07.28(수)
+
+.2247. [G3] 실질적 약수, https://www.acmicpc.net/problem/2247
+
 
 ```
 
-1599. [G5] 민식어
-https://www.acmicpc.net/problem/1599
 1774. [G4] 우주신과의 교감
 https://www.acmicpc.net/problem/1774
 3908. [G4] 서로 다른 소수의 합
