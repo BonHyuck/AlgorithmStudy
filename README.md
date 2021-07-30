@@ -193,12 +193,10 @@ https://www.acmicpc.net/problem/1132
 
 .5052. [G4] 전화번호 목록, https://www.acmicpc.net/problem/5052
 
-```
-1256. [G3] 사전
-https://www.acmicpc.net/problem/1256
+.1256. [G3] 사전, https://www.acmicpc.net/problem/1256
 
-5052. [G4] 전화번호 목록
-https://www.acmicpc.net/problem/5052
+```
+
 ```
 
 
