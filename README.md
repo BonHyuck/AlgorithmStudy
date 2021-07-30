@@ -174,24 +174,38 @@
 
 #### 2021.07.29(목)
 
-
-
+.3908. [G4] 서로 다른 소수의 합, https://www.acmicpc.net/problem/3908
 
 ```
-
 1774. [G4] 우주신과의 교감
 https://www.acmicpc.net/problem/1774
-3908. [G4] 서로 다른 소수의 합
-https://www.acmicpc.net/problem/3908
 4719. [G4] 불! 
 https://www.acmicpc.net/problem/4179
 12869. [G4] 뮤탈리스크
 https://www.acmicpc.net/problem/12869
 1132. [G3] 합
 https://www.acmicpc.net/problem/1132
-2247. [G3] 실질적 약수
-https://www.acmicpc.net/problem/2247
 ```
+
+### 7월 5주차 (21.07.30 ~ 21.08.05)
+
+#### 2021.07.30(금)
+
+.5052. [G4] 전화번호 목록, https://www.acmicpc.net/problem/5052
+
+```
+1256. [G3] 사전
+https://www.acmicpc.net/problem/1256
+
+5052. [G4] 전화번호 목록
+https://www.acmicpc.net/problem/5052
+```
+
+
+
+
+
+
 
 
 

@@ -26,7 +26,7 @@ def find_open():
 N, M = map(int, input().split())
 box = [list(map(int, input().split())) for _ in range(N)]
 # 비어있음 여부 확인 배열
-# 0 : 공기, 1: 안공기
+# 0 : 공기, 1: 공기 아님
 open_area = [[1 for _ in range(M)] for _ in range(N)]
 # 가장자리 비워두기
 for c in range(M):

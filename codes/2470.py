@@ -5,15 +5,15 @@ N = int(input())
 arr = list(map(int, input().split()))
 # 배열 정렬
 arr = sorted(arr)
-# 시작점
+# 시작점 = index
 start = 0
-# 끝 점
+# 끝 점 = index
 end = N - 1
 # 결과값, 0에 가까워져야함
 result = float('inf')
-# 결과값
+# 결과값 = index
 start_result = 0
-# 결과값
+# 결과값 = index
 end_result = 0
 
 

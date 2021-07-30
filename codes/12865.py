@@ -25,6 +25,9 @@
 # start_select(0, 0, 0)
 # print(max_value)
 
+# 12865. 평범한 배낭
+# https://www.acmicpc.net/problem/12865
+
 N, K = map(int, input().split())
 item = [[0, 0]]
 for i in range(1, N + 1):
@@ -32,6 +35,7 @@ for i in range(1, N + 1):
 dp = [[0] * (K + 1) for _ in range(N + 1)]
 for i in range(1, N + 1):
     for j in range(1, K + 1):
+        # 새로운 아이템 추가시 무게
         if j >= item[i][0]:
             dp[i][j] = max(dp[i-1][j], dp[i-1][j-item[i][0]] + item[i][1])
         else:
