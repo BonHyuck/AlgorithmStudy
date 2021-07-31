@@ -195,8 +195,26 @@ https://www.acmicpc.net/problem/1132
 
 .1256. [G3] 사전, https://www.acmicpc.net/problem/1256
 
+#### 2021.07.31(토)
+
+.3000. [G5] 직각 삼각형, https://www.acmicpc.net/problem/3000
+
 ```
 
+1477.  [G4] 휴게소 세우기
+https://www.acmicpc.net/problem/1477
+1941. [G3] 소문난 칠공주
+https://www.acmicpc.net/problem/1941
+2550.[G3] 전구
+https://www.acmicpc.net/problem/2550
+10711.[G3] 모래성
+https://www.acmicpc.net/problem/10711
+1081. [G2] 합
+https://www.acmicpc.net/problem/1081
+1938. [G2] 통나무 옮기기
+https://www.acmicpc.net/problem/1938
+2613. [G2] 숫자 구슬
+https://www.acmicpc.net/problem/2613
 ```
 
 
