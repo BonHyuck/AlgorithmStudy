@@ -203,9 +203,11 @@ https://www.acmicpc.net/problem/1132
 
 .1477.  [G4] 휴게소 세우기, https://www.acmicpc.net/problem/1477
 
+#### 2021.08.02(월)
+
+.1941. [G3] 소문난 칠공주, https://www.acmicpc.net/problem/1941
+
 ```
-1941. [G3] 소문난 칠공주
-https://www.acmicpc.net/problem/1941
 2550.[G3] 전구
 https://www.acmicpc.net/problem/2550
 10711.[G3] 모래성
