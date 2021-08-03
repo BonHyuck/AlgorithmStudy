@@ -213,6 +213,10 @@ https://www.acmicpc.net/problem/1132
 
 .2613. [G2] 숫자 구슬, https://www.acmicpc.net/problem/2613
 
+#### 2021.08.04(수)
+
+.1938. [G2] 통나무 옮기기, https://www.acmicpc.net/problem/1938
+
 ```
 2550.[G3] 전구
 https://www.acmicpc.net/problem/2550
