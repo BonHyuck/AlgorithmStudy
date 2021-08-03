@@ -20,6 +20,20 @@
 #     arr.sort()
 # print(sum(result))
 
+
+# N = int(input())
+# arr = [int(input()) for _ in range(N)]
+# arr = sorted(arr)
+# result = []
+# while len(arr) > 1:
+#     first = arr.pop(0)
+#     second = arr.pop(0)
+#     arr.append(first + second)
+#     result.append(first + second)
+#     arr.sort()
+# print(sum(result))
+
+
 # 1715. [G4] 카드 정렬하기
 # https://www.acmicpc.net/problem/1715
 
@@ -29,7 +43,6 @@ N = int(input())
 arr = []
 for _ in range(N):
     heapq.heappush(arr, int(input()))
-    print(arr)
 
 # 1개일 경우 비교 없음
 if len(arr) == 1:
@@ -45,4 +58,5 @@ else:
         answer += first + second
         # 다시 넣어서 최소 연산
         heapq.heappush(arr, first + second)
+
     print(answer)
