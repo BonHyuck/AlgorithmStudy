@@ -217,13 +217,12 @@ https://www.acmicpc.net/problem/1132
 
 .1938. [G2] 통나무 옮기기, https://www.acmicpc.net/problem/1938
 
+.1081. [G2] 합, https://www.acmicpc.net/problem/1081
+
 ```
 2550.[G3] 전구
 https://www.acmicpc.net/problem/2550
-1081. [G2] 합
-https://www.acmicpc.net/problem/1081
-1938. [G2] 통나무 옮기기
-https://www.acmicpc.net/problem/1938
+
 ```
 
 
