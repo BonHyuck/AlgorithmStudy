@@ -219,9 +219,16 @@ https://www.acmicpc.net/problem/1132
 
 .1081. [G2] 합, https://www.acmicpc.net/problem/1081
 
+#### 2021.08.05(목)
+
+.2550.[G3] 전구, https://www.acmicpc.net/problem/2550
+
+**LIS를 익힌 후 꼭 나중에 풀어보기**
+
+
+
 ```
-2550.[G3] 전구
-https://www.acmicpc.net/problem/2550
+
 
 ```
 
