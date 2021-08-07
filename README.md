@@ -233,6 +233,10 @@ https://www.acmicpc.net/problem/1132
 
 .2023. [G5] 신기한 소수, https://www.acmicpc.net/problem/2023
 
+#### 2021.08.07(토)
+
+.1565. [G3] 수학, https://www.acmicpc.net/problem/1565
+
 
 
 ```
@@ -242,8 +246,7 @@ https://www.acmicpc.net/problem/11053
 https://www.acmicpc.net/problem/4781
 1967. [G4] 트리의 지름
 https://www.acmicpc.net/problem/1967
-1565. [G3] 수학
-https://www.acmicpc.net/problem/1565
+
 2026. [G3] 소풍
 https://www.acmicpc.net/problem/2026
 14238. [G3] 출근 기록
