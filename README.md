@@ -237,16 +237,17 @@ https://www.acmicpc.net/problem/1132
 
 .1565. [G3] 수학, https://www.acmicpc.net/problem/1565
 
+#### 2021.08.08(일)
+
+. 11053. [S2]가장 긴 증가하는 부분 수열, https://www.acmicpc.net/problem/11053
+
 
 
 ```
-11053. [S2]가장 긴 증가하는 부분 수열
-https://www.acmicpc.net/problem/11053
 4781. [G5] 사탕가게
 https://www.acmicpc.net/problem/4781
 1967. [G4] 트리의 지름
 https://www.acmicpc.net/problem/1967
-
 2026. [G3] 소풍
 https://www.acmicpc.net/problem/2026
 14238. [G3] 출근 기록
