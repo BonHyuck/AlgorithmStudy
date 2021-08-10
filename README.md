@@ -247,8 +247,9 @@ https://www.acmicpc.net/problem/1132
 
 
 
-```
 
+
+```
 1967. [G4] 트리의 지름
 https://www.acmicpc.net/problem/1967
 2026. [G3] 소풍
