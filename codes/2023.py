@@ -1,3 +1,6 @@
+# 2023. [G5] 신기한 소수
+# https://www.acmicpc.net/problem/2023
+
 N = int(input())
 possible = [1, 3, 7, 9]
 result = []

@@ -227,8 +227,46 @@ https://www.acmicpc.net/problem/1132
 
 
 
+### 8월 1주차 (21.08.06 ~ 21.08.12)
+
+#### 2021.08.06(금)
+
+.2023. [G5] 신기한 소수, https://www.acmicpc.net/problem/2023
+
+#### 2021.08.07(토)
+
+.1565. [G3] 수학, https://www.acmicpc.net/problem/1565
+
+#### 2021.08.08(일)
+
+. 11053. [S2]가장 긴 증가하는 부분 수열, https://www.acmicpc.net/problem/11053
+
+#### 2021.08.09(월)
+
+.4781. [G5] 사탕가게, https://www.acmicpc.net/problem/4781
+
+#### 2021.08.10(화)
+
+.1967. [G4] 트리의 지름, https://www.acmicpc.net/problem/1967
+
+#### 2021.08.11(수)
+
+
+
+
+
 ```
 
+2026. [G3] 소풍
+https://www.acmicpc.net/problem/2026
+14238. [G3] 출근 기록
+https://www.acmicpc.net/problem/14238
+1561. [G2] 놀이 공원
+https://www.acmicpc.net/problem/1561
+1029. [G1] 그림교환 
+https://www.acmicpc.net/problem/1029
+1114. [G1] 통나무 자르기
+https://www.acmicpc.net/problem/1114
 
 ```
 
