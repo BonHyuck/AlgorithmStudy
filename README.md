@@ -245,13 +245,18 @@ https://www.acmicpc.net/problem/1132
 
 .4781. [G5] 사탕가게, https://www.acmicpc.net/problem/4781
 
+#### 2021.08.10(화)
+
+.1967. [G4] 트리의 지름, https://www.acmicpc.net/problem/1967
+
+#### 2021.08.11(수)
+
 
 
 
 
 ```
-1967. [G4] 트리의 지름
-https://www.acmicpc.net/problem/1967
+
 2026. [G3] 소풍
 https://www.acmicpc.net/problem/2026
 14238. [G3] 출근 기록
