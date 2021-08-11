@@ -251,7 +251,9 @@ https://www.acmicpc.net/problem/1132
 
 #### 2021.08.11(수)
 
+.1967. [G4] 트리의 지름, https://www.acmicpc.net/problem/1967
 
+.1561. [G2] 놀이 공원, https://www.acmicpc.net/problem/1561
 
 
 
@@ -261,8 +263,7 @@ https://www.acmicpc.net/problem/1132
 https://www.acmicpc.net/problem/2026
 14238. [G3] 출근 기록
 https://www.acmicpc.net/problem/14238
-1561. [G2] 놀이 공원
-https://www.acmicpc.net/problem/1561
+
 1029. [G1] 그림교환 
 https://www.acmicpc.net/problem/1029
 1114. [G1] 통나무 자르기
