@@ -2,9 +2,9 @@
 # https://www.acmicpc.net/problem/1188
 
 def find_gcd(sausage, person):
+    # 소시지를 공평하게 나눠줄 수 있다.
     if sausage % person == 0:
         return person
-
     return find_gcd(person, sausage % person)
 
 
