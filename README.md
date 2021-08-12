@@ -255,12 +255,15 @@ https://www.acmicpc.net/problem/1132
 
 .1561. [G2] 놀이 공원, https://www.acmicpc.net/problem/1561
 
+#### 2021.08.12(목)
+
+.2026. [G3] 소풍, https://www.acmicpc.net/problem/2026
+
 
 
 ```
 
-2026. [G3] 소풍
-https://www.acmicpc.net/problem/2026
+
 14238. [G3] 출근 기록
 https://www.acmicpc.net/problem/14238
 
