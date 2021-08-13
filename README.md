@@ -261,16 +261,37 @@ https://www.acmicpc.net/problem/1132
 
 
 
+### 8월 2주차 (21.08.13 ~ 21.08.19)
+
+#### 2021.08.13(금)
+
+.3190. [G5] 뱀, https://www.acmicpc.net/problem/3190
+
+
+
+
+
 ```
-
-
-14238. [G3] 출근 기록
-https://www.acmicpc.net/problem/14238
-
-1029. [G1] 그림교환 
-https://www.acmicpc.net/problem/1029
-1114. [G1] 통나무 자르기
-https://www.acmicpc.net/problem/1114
+3190. [G5] 뱀
+https://www.acmicpc.net/problem/3190
+5557. [G5] 1학년
+https://www.acmicpc.net/problem/5557
+1043. [G4] 거짓말
+https://www.acmicpc.net/problem/1043
+1060. [G3] 좋은 수
+https://www.acmicpc.net/problem/1060
+1545. {G3] 안티 팰린드롬
+https://www.acmicpc.net/problem/1545
+5502. [G3] 팰린드롬
+https://www.acmicpc.net/problem/5502
+14630. [G3] 변신로봇
+https://www.acmicpc.net/problem/14630
+1766. [G2] 문제집
+https://www.acmicpc.net/problem/1766
+10423. [G2] 전기가 부족해
+https://www.acmicpc.net/problem/10423
+1036. [G1] 36진수
+https://www.acmicpc.net/problem/1036
 
 ```
 
