@@ -267,13 +267,13 @@ https://www.acmicpc.net/problem/1132
 
 .3190. [G5] 뱀, https://www.acmicpc.net/problem/3190
 
+#### 2021.08.14(토)
 
+.5557. [G5] 1학년, https://www.acmicpc.net/problem/5557
 
 
 
 ```
-3190. [G5] 뱀
-https://www.acmicpc.net/problem/3190
 5557. [G5] 1학년
 https://www.acmicpc.net/problem/5557
 1043. [G4] 거짓말
