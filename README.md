@@ -271,13 +271,14 @@ https://www.acmicpc.net/problem/1132
 
 .5557. [G5] 1학년, https://www.acmicpc.net/problem/5557
 
+#### 2021.08.15(일)
+
+.1043. [G4] 거짓말, https://www.acmicpc.net/problem/1043
+
 
 
 ```
-5557. [G5] 1학년
-https://www.acmicpc.net/problem/5557
-1043. [G4] 거짓말
-https://www.acmicpc.net/problem/1043
+
 1060. [G3] 좋은 수
 https://www.acmicpc.net/problem/1060
 1545. {G3] 안티 팰린드롬
