@@ -279,11 +279,14 @@ https://www.acmicpc.net/problem/1132
 
 .1060. [G3] 좋은 수, https://www.acmicpc.net/problem/1060, 실패...
 
+#### 2021.08.17(화)
+
+.1545. {G3] 안티 팰린드롬, https://www.acmicpc.net/problem/1545, 시간초과...
+
 ```
 
 
-1545. {G3] 안티 팰린드롬
-https://www.acmicpc.net/problem/1545
+
 5502. [G3] 팰린드롬
 https://www.acmicpc.net/problem/5502
 14630. [G3] 변신로봇
