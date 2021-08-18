@@ -283,12 +283,12 @@ https://www.acmicpc.net/problem/1132
 
 .1545. {G3] 안티 팰린드롬, https://www.acmicpc.net/problem/1545, 시간초과...
 
+#### 2021.08.18(수)
+
+.5502. [G3] 팰린드롬, https://www.acmicpc.net/problem/5502
+
 ```
 
-
-
-5502. [G3] 팰린드롬
-https://www.acmicpc.net/problem/5502
 14630. [G3] 변신로봇
 https://www.acmicpc.net/problem/14630
 1766. [G2] 문제집
