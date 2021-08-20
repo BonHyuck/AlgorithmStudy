@@ -300,10 +300,6 @@ https://www.acmicpc.net/problem/1132
 .1766. [G2] 문제집, https://www.acmicpc.net/problem/1766
 
 ```
-
-
-1766. [G2] 문제집
-https://www.acmicpc.net/problem/1766
 10423. [G2] 전기가 부족해
 https://www.acmicpc.net/problem/10423
 1036. [G1] 36진수
