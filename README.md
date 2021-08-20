@@ -291,6 +291,14 @@ https://www.acmicpc.net/problem/1132
 
 .14630. [G3] 변신로봇, https://www.acmicpc.net/problem/14630
 
+
+
+### 8월 3주차 (21.08.20 ~ 21.08.26) : 잠시 쉬어가기
+
+#### 2021.08.20(금)
+
+.1766. [G2] 문제집, https://www.acmicpc.net/problem/1766
+
 ```
 
 

@@ -16,7 +16,7 @@ def find_path(idx, dist):
             result = dist
         return
 
-    
+
 
 
 N = int(input())
