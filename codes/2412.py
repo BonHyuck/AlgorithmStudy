@@ -5,6 +5,33 @@
 4 1
 3 2
 0 2
+
+
+7 7
+1 2
+2 4
+2 2
+4 4
+5 3
+7 5
+5 7
+
+13 5
+1 1
+2 1
+3 1
+4 1
+5 1
+6 1
+7 1
+3 3
+4 4
+6 3
+7 5
+8 3
+9 5
+
+
 '''
 import sys
 from collections import deque
@@ -29,6 +56,7 @@ queue = deque()
 queue.append((0, 0, 0))
 visited = [[0 for _ in range(max_x + 1)] for _ in range(max_y + 1)]
 result = -1
+
 while queue:
     x, y, c = queue.popleft()
     if y == T:

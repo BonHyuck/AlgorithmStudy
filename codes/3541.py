@@ -21,5 +21,3 @@ for k in range(M):
             break
 
 print(result)
-
-
