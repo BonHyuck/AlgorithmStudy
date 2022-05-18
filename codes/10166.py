@@ -1,14 +1,13 @@
+import math
 D1, D2 = map(int, input().split())
-arr = [0 for _ in range(720001)]
+result = 0
+arr = [{} for _ in range(D2 + 1)]
 
-for i in range(D1, D2 + 1):
-    number = 360 * 2000 // i
-    temp = number
-    if arr[0] == 0:
-        arr[0] = 1
-    while number < 360 * 2000:
-        if arr[number] == 0:
-            arr[number] = 1
-        number += temp
+for k in range(D1, D2 + 1):
+    for i in range(1, k + 1):
+        number = math.gcd(k, i)
+        if arr[i // number].get(k // number, 0) == 0:
+            arr[i // number][k // number] = 1
+            result += 1
 
-print(arr.count(1))
+print(result)
